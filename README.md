@@ -10,11 +10,11 @@
   - Electronics
   - Design Software (Electronic & Mechanical)
    
-- 🚌 Also, I am COO of **MaaSIVO**, an entrepreneurship related to improving the mobility of the Metropolitan Area of Guadalajara (AMG).
+- 🚌 Also, I am COO of [**MaaSIVO**](https://linktr.ee/maasivo), an entrepreneurship related to improving the mobility of the Metropolitan Area of Guadalajara (AMG).
  
 - 📚 I consider myself very responsible, never stop learning and I always drive myself for more. <ins>_Kaizen is my life’s philosophy._</ins>
 
-- 🌟 My life’s mission is to become an entrepreneur using my passion for innovation and engineering to have the power and opportunity to influence in the world. It is about giving life to many ideas that help and transform.
+- 🌟 My life’s mission is to become an entrepreneur using my passion for innovation and engineering to have the power and opportunity to influence the world. It is about giving life to many ideas that help and transform.
   - 🗓️ In order to achieve this, I seek to acquire knowledge and experience that allow me to learn and improve by 1% every single day. **Transcend.** 
 
 <!---
