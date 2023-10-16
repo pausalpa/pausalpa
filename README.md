@@ -4,7 +4,7 @@
 
 - 4️⃣ Along with these 4+ years of professional experience, I have worked in different technical areas, like:
   - 💻 Software Development (Python, C++, JS)
-    - 🟢 ServiceNow (as a certified System Administrator)
+    - 🟢 [ServiceNow](https://nowlearning.servicenow.com/lxp?id=nl_public&user=pausalpa-) (as a certified System Administrator)
   - 🔂 Automation and Instrumentation
   - 📈 Control Theory
   - 🪫 Electronics
